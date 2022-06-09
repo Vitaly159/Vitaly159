@@ -23,3 +23,9 @@ Notebook https://radiant-frangollo-481fef.netlify.app
 Organizer https://dazzling-phoenix-61c90e.netlify.app
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/org.jpg" />
+
+<br/>
+
+Shopping App https://creative-hotteok-e50c9e.netlify.app
+<br/>
+<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/shop.jpg" />
