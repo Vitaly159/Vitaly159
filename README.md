@@ -1,2 +1,4 @@
-## Привет! Я junior React Developer 
-### Навыки
+### Hi there 👋, I'm Vitaly
+## I'm a Junior FrontEnd Developer
+
+
