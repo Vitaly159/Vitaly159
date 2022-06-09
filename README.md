@@ -14,10 +14,10 @@
 <br/>
 
 ### Here you can see my with my projects
-Notebook https://radiant-frangollo-481fef.netlify.app
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/Frame%201.jpg" />
+Notebook https://radiant-frangollo-481fef.netlify.app
 
 <br/>
 
-Organizer https://dazzling-phoenix-61c90e.netlify.app
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/org.jpg" />
+Organizer https://dazzling-phoenix-61c90e.netlify.app
