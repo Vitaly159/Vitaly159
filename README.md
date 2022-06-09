@@ -17,7 +17,7 @@
 
 ### Here you can see my with my projects
 
-<img align="left" alt="js" width="200px" src="https://github.com/Vitaly159/Vitaly159/blob/main/Frame%201.jpg" />
+<img align="left" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/Frame%201.jpg" />
 https://radiant-frangollo-481fef.netlify.app
 
 
