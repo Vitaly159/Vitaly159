@@ -28,7 +28,9 @@ https://github.com/Vitaly159/React-notebook
 
 <br/>
 
-Organizer https://dazzling-phoenix-61c90e.netlify.app
+Organizer:
+<br/>
+https://dazzling-phoenix-61c90e.netlify.app
 <br/>
 https://github.com/Vitaly159/React-organizer
 <br/>
@@ -36,7 +38,9 @@ https://github.com/Vitaly159/React-organizer
 
 <br/>
 
-Shopping App https://creative-hotteok-e50c9e.netlify.app
+Shopping App: 
+<br/>
+https://creative-hotteok-e50c9e.netlify.app
 <br/>
 https://github.com/Vitaly159/React-Shopping-App
 <br/>
