@@ -20,6 +20,9 @@ Notebook
 <img align="left" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/Frame%201.jpg" />
 https://radiant-frangollo-481fef.netlify.app
 
+<br/>
+<br/>
+
 Organizer
 <img align="left" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/org.jpg" />
 https://dazzling-phoenix-61c90e.netlify.app
