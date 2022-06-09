@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-### Here you can see my with my projects
+### Here you can see with my my react projects
 Notebook https://radiant-frangollo-481fef.netlify.app
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/Frame%201.jpg" />
