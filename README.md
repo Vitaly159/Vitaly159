@@ -16,10 +16,11 @@
 
 
 ### Here you can see my with my projects
-Notebook
+Notebook https://radiant-frangollo-481fef.netlify.app
+
 <br/>
+
 <img align="left" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/Frame%201.jpg" />
-https://radiant-frangollo-481fef.netlify.app
 
 <br/>
 <br/>
