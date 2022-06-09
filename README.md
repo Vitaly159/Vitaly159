@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-### Here you can see with my my react projects
+### Here you can see my react projects
 Notebook:
 <br/>
 https://radiant-frangollo-481fef.netlify.app
