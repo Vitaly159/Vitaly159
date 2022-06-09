@@ -17,6 +17,6 @@
 
 ### Here you can see my with my projects
 
-<img align="left" alt="js" width="28px" src="https://github.com/Vitaly159/Vitaly159/blob/main/notebook.png" />
+<img align="left" alt="js" width="100px" src="https://github.com/Vitaly159/Vitaly159/blob/main/notebook.png" />
 
 
