@@ -45,3 +45,13 @@ https://creative-hotteok-e50c9e.netlify.app
 https://github.com/Vitaly159/React-Shopping-App
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/shop.jpg" />
+
+<br/>
+
+Todos  (real task of the employer before the interview):
+<br/>
+https://github.com/Vitaly159/todos
+<br/>
+https://boisterous-piroshki-60122c.netlify.app
+<br/>
+
