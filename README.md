@@ -34,7 +34,7 @@ https://dazzling-phoenix-61c90e.netlify.app
 <br/>
 https://github.com/Vitaly159/React-organizer
 <br/>
-<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/org.jpg" />
+<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/org.jpg" />
 
 <br/>
 
@@ -44,7 +44,7 @@ https://creative-hotteok-e50c9e.netlify.app
 <br/>
 https://github.com/Vitaly159/React-Shopping-App
 <br/>
-<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/shop.jpg" />
+<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/shop.jpg" />
 
 <br/>
 
