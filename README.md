@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Vitaly
 ## I'm a Junior FrontEnd Developer 
-### and I`m looking for a job
+### open to work
 
 <br/>
 <br/>
