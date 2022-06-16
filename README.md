@@ -48,7 +48,7 @@ https://github.com/Vitaly159/React-Shopping-App
 
 <br/>
 
-Todos  (real task of the employer before the interview):
+Todos  (real task of the employer before the interview - Mindbox company):
 <br/>
 https://github.com/Vitaly159/todos
 <br/>
