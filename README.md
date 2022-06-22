@@ -18,6 +18,13 @@
 <br/>
 
 ### Here you can see my react projects
+TodoList:
+<br />
+with redux: https://github.com/Vitaly159/React-Redux-todoList
+<br />
+redux+typescript: https://github.com/Vitaly159/React-Redux-TypeScript-todoList
+
+
 Notebook:
 <br/>
 https://radiant-frangollo-481fef.netlify.app
