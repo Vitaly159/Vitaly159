@@ -65,7 +65,7 @@ https://boisterous-piroshki-60122c.netlify.app
 
 <br/>
 
-Converter to Excel  (real task of the employer):
+Converter from Excel to JSON (real task of the employer):
 <br/>
 https://github.com/Vitaly159/React-ImportExcel 
 <br/>
