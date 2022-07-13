@@ -55,10 +55,19 @@ https://github.com/Vitaly159/React-Shopping-App
 
 <br/>
 
-Todos  (real task of the employer before the interview - Mindbox company):
+Todos  (real task of the employer):
 <br/>
 https://github.com/Vitaly159/todos
 <br/>
 https://boisterous-piroshki-60122c.netlify.app
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/todos.png" />
+
+<br/>
+
+Converter to Excel  (real task of the employer):
+<br/>
+https://github.com/Vitaly159/
+<br/>
+<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/importExcel.png" />
+
