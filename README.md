@@ -71,3 +71,11 @@ https://github.com/Vitaly159/React-ImportExcel
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/importExcel.png" />
 
+Верстка главной страницы сайта (тестовое задание):
+<br/>
+https://github.com/Vitaly159/SpaceX
+<br/>
+https://effortless-kringle-89f76d.netlify.app
+<br/>
+<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/importExcel.png" />
+
