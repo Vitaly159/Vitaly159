@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Vitaly
-## I'm a Junior FrontEnd Developer 
+## I'm a FrontEnd Developer 
 ### open to work
 
 <br/>
