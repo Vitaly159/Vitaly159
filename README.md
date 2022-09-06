@@ -43,6 +43,8 @@ https://dazzling-phoenix-61c90e.netlify.app
 <br/>
 https://github.com/Vitaly159/React-organizer
 <br/>
+with redux: https://github.com/Vitaly159/React-organizer-redux
+<br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/org.jpg" />
 
 <br/>
