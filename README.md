@@ -19,7 +19,7 @@
 
 ### Here you can see my react projects
 
-Социальная сеть (не завершено) typescript, redux/toolkit, Node JS (mongoDB, express, mongoose)
+<b>Социальная сеть</b> (не завершено) typescript, redux/toolkit, Node JS (mongoDB, express, mongoose)
 https://github.com/Vitaly159/social-network
 
 <br/>
