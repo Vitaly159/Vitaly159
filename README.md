@@ -18,6 +18,10 @@
 <br/>
 
 ### Here you can see my react projects
+
+Социальная сеть (не завершено) typescript, redux/toolkit, Node JS (mongoDB, express, mongoose)
+https://github.com/Vitaly159/social-network
+
 TodoList:
 <br />
 with redux: https://github.com/Vitaly159/React-Redux-todoList
