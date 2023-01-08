@@ -22,23 +22,6 @@
 Социальная сеть (не завершено) typescript, redux/toolkit, Node JS (mongoDB, express, mongoose)
 https://github.com/Vitaly159/social-network
 
-TodoList:
-<br />
-with redux: https://github.com/Vitaly159/React-Redux-todoList
-<br />
-redux+typescript: https://github.com/Vitaly159/React-Redux-TypeScript-todoList
-
-
-Notebook:
-<br/>
-https://radiant-frangollo-481fef.netlify.app
-<br/>
-https://github.com/Vitaly159/React-notebook
-<br/>
-redux+typescript https://github.com/Vitaly159/React_redux_notebook
-<br/>
-<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/notebook.png" />
-
 <br/>
 
 Organizer:
@@ -50,6 +33,25 @@ https://github.com/Vitaly159/React-organizer
 with redux: https://github.com/Vitaly159/React-organizer-redux
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/org.jpg" />
+
+<br/>
+
+TodoList:
+<br />
+with redux/toolkit: https://github.com/Vitaly159/React-Redux-todoList
+<br />
+redux/toolkit+typescript: https://github.com/Vitaly159/React-Redux-TypeScript-todoList
+
+
+Notebook:
+<br/>
+https://radiant-frangollo-481fef.netlify.app
+<br/>
+https://github.com/Vitaly159/React-notebook
+<br/>
+redux/toolkit+typescript https://github.com/Vitaly159/React_redux_notebook
+<br/>
+<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/notebook.png" />
 
 <br/>
 
