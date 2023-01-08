@@ -24,15 +24,25 @@ https://github.com/Vitaly159/social-network
 
 <br/>
 
-Organizer:
+<b>Organizer</b>:
 <br/>
 https://dazzling-phoenix-61c90e.netlify.app
 <br/>
 https://github.com/Vitaly159/React-organizer
 <br/>
-with redux: https://github.com/Vitaly159/React-organizer-redux
+with redux/toolkit: https://github.com/Vitaly159/React-organizer-redux
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/org.jpg" />
+
+<br/>
+
+Shopping App: 
+<br/>
+https://creative-hotteok-e50c9e.netlify.app
+<br/>
+https://github.com/Vitaly159/React-Shopping-App
+<br/>
+<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/shop.jpg" />
 
 <br/>
 
@@ -52,16 +62,6 @@ https://github.com/Vitaly159/React-notebook
 redux/toolkit+typescript https://github.com/Vitaly159/React_redux_notebook
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/notebook.png" />
-
-<br/>
-
-Shopping App: 
-<br/>
-https://creative-hotteok-e50c9e.netlify.app
-<br/>
-https://github.com/Vitaly159/React-Shopping-App
-<br/>
-<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/shop.jpg" />
 
 <br/>
 
