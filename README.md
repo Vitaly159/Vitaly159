@@ -36,7 +36,7 @@ with redux/toolkit: https://github.com/Vitaly159/React-organizer-redux
 
 <br/>
 
-Shopping App: 
+<b>Shopping App</b>: 
 <br/>
 https://creative-hotteok-e50c9e.netlify.app
 <br/>
@@ -46,14 +46,15 @@ https://github.com/Vitaly159/React-Shopping-App
 
 <br/>
 
-TodoList:
+<b>TodoList</b>:
 <br />
 with redux/toolkit: https://github.com/Vitaly159/React-Redux-todoList
 <br />
 redux/toolkit+typescript: https://github.com/Vitaly159/React-Redux-TypeScript-todoList
 
+<br/>
 
-Notebook:
+<b>Notebook</b>:
 <br/>
 https://radiant-frangollo-481fef.netlify.app
 <br/>
@@ -75,7 +76,7 @@ https://boisterous-piroshki-60122c.netlify.app
 
 <br/>
 
-Converter from Excel to JSON (real task of the employer):
+<b>Converter from Excel to JSON (real task of the employer)</b>:
 <br/>
 https://github.com/Vitaly159/React-ImportExcel 
 <br/>
