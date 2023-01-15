@@ -56,8 +56,6 @@ redux/toolkit+typescript: https://github.com/Vitaly159/React-Redux-TypeScript-to
 <br/>
 https://radiant-frangollo-481fef.netlify.app
 <br/>
-https://github.com/Vitaly159/React-notebook
-<br/>
 redux/toolkit+typescript https://github.com/Vitaly159/React_redux_notebook
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/notebook.png" />
