@@ -19,6 +19,9 @@
 
 ### Here you can see my react projects
 
+<b>Сапёр</b>
+https://github.com/Vitaly159/minesweeper
+
 <b>Социальная сеть</b> (не завершено) typescript, redux/toolkit, Node JS (mongoDB, express, mongoose)
 https://github.com/Vitaly159/social-network
 
