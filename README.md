@@ -21,6 +21,7 @@
 
 <b>Сапёр</b>
 https://github.com/Vitaly159/minesweeper
+<br/>
 https://master--zesty-bombolone-4a1db3.netlify.app/
 
 <b>Социальная сеть</b> (не завершено) typescript, redux/toolkit, Node JS (mongoDB, express, mongoose)
