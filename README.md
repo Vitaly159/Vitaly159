@@ -19,6 +19,10 @@
 
 ### Here you can see my react projects
 
+<b>Виртуальный список на React, Typescript, Redux Toolkit</b>
+<br/>
+https://github.com/Vitaly159/Virtualization
+
 <b>Простой websocket на Node JS (реальное тестовое на позицию pre-middle)</b>
 <br/>
 https://github.com/Vitaly159/websocket-example
