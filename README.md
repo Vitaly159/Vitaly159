@@ -19,9 +19,13 @@
 
 ### Here you can see my react projects
 
-<b>Виртуальный список на React, Typescript, Redux Toolkit</b>
+<b>Виртуальный список на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle)</b>
 <br/>
 https://github.com/Vitaly159/Virtualization
+
+<b>Прототип интернет-магазина на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle)</b>
+<br/>
+https://github.com/Vitaly159/Catalog-example
 
 <b>Простой websocket на Node JS (реальное тестовое на позицию pre-middle)</b>
 <br/>
