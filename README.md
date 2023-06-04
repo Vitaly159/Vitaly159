@@ -30,7 +30,6 @@
 <br/>
 
 4) <b>Сапёр на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle) https://github.com/Vitaly159/minesweeper, 
-<br/>  
 https://master--zesty-bombolone-4a1db3.netlify.app/</b>
 <br/>
 
@@ -39,8 +38,7 @@ https://master--zesty-bombolone-4a1db3.netlify.app/</b>
 <br/>
 
 6) <b>Todos  (реальное тестовое на позицию react разработчика) 
-https://boisterous-piroshki-60122c.netlify.app
-  <br/>
+https://boisterous-piroshki-60122c.netlify.app,
 https://github.com/Vitaly159/todos-redux-thunk
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/todos.png" /></b>
@@ -65,17 +63,18 @@ https://github.com/Vitaly159/React-organizer-redux</b>:
 <br/>
 <br/>
 
-- <b>Shopping App на React JS</b>: 
-<br/>
-https://creative-hotteok-e50c9e.netlify.app
-<br/>
-https://github.com/Vitaly159/React-Shopping-App
+9) <b>Shopping App на React JS 
+https://creative-hotteok-e50c9e.netlify.app, 
+https://github.com/Vitaly159/React-Shopping-App</b>: 
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/shop.jpg" />
 
 <br/>
+<br/>
 
-- <b>Notebook</b>:
+<br/>
+
+10) <b>Notebook</b>:
 <br/>
 https://radiant-frangollo-481fef.netlify.app
 <br/>
