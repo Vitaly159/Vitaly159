@@ -19,6 +19,9 @@
 
 ### Here you can see my react projects
 
+<b>Простой websocket на Node JS</b>
+https://github.com/Vitaly159/websocket-example
+
 <b>Сапёр</b>
 https://github.com/Vitaly159/minesweeper
 <br/>
