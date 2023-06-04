@@ -23,19 +23,15 @@
 <br/>
 
 
-2) <b>Прототип интернет-магазина на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle)</b>
+2) <b>Прототип интернет-магазина на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle) https://github.com/Vitaly159/Catalog-example</b>
 <br/>
-https://github.com/Vitaly159/Catalog-example
 
-- <b>Простой websocket на React + Node JS (реальное тестовое на позицию pre-middle)</b>
+3) <b>Простой websocket на React + Node JS (реальное тестовое на позицию pre-middle) https://github.com/Vitaly159/websocket-example
+</b>
 <br/>
-https://github.com/Vitaly159/websocket-example
 
-- <b>Сапёр на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle)</b>
+4) <b>Сапёр на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle) https://github.com/Vitaly159/minesweeper https://master--zesty-bombolone-4a1db3.netlify.app/</b>
 <br/>
-https://github.com/Vitaly159/minesweeper
-<br/>
-https://master--zesty-bombolone-4a1db3.netlify.app/
 
 - <b>Прототип блога на React, Typescript, Redux Toolkit, Node JS (mongoDB, express, mongoose) </b> (не завершено) 
 <br/>
