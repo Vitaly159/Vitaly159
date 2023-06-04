@@ -27,7 +27,7 @@ https://github.com/Vitaly159/Virtualization
 <br/>
 https://github.com/Vitaly159/Catalog-example
 
-<b>Простой websocket на Node JS (реальное тестовое на позицию pre-middle)</b>
+<b>Простой websocket на React + Node JS (реальное тестовое на позицию pre-middle)</b>
 <br/>
 https://github.com/Vitaly159/websocket-example
 
