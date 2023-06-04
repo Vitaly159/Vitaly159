@@ -30,12 +30,10 @@
 </b>
 <br/>
 
-4) <b>Сапёр на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle) https://github.com/Vitaly159/minesweeper https://master--zesty-bombolone-4a1db3.netlify.app/</b>
+4) <b>Сапёр на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle) https://github.com/Vitaly159/minesweeper<br/> https://master--zesty-bombolone-4a1db3.netlify.app/</b>
 <br/>
 
-- <b>Прототип блога на React, Typescript, Redux Toolkit, Node JS (mongoDB, express, mongoose) </b> (не завершено) 
-<br/>
-https://github.com/Vitaly159/social-network
+5) <b>Прототип блога на React, Typescript, Redux Toolkit, Node JS (mongoDB, express, mongoose) https://github.com/Vitaly159/social-network</b> (не завершено) 
 
 <br/>
 
