@@ -39,7 +39,8 @@
 
 6) <b>Todos  (реальное тестовое на позицию react разработчика) 
 https://boisterous-piroshki-60122c.netlify.app
-with redux-thunk: https://github.com/Vitaly159/todos-redux-thunk
+https://github.com/Vitaly159/todos-redux-thunk
+<br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/todos.png" /></b>
 
 <br/>
