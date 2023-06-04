@@ -31,13 +31,14 @@ https://github.com/Vitaly159/Catalog-example
 <br/>
 https://github.com/Vitaly159/websocket-example
 
-<b>Сапёр</b>
+<b>Сапёр на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle)</b>
 <br/>
 https://github.com/Vitaly159/minesweeper
 <br/>
 https://master--zesty-bombolone-4a1db3.netlify.app/
 
-<b>Социальная сеть</b> (не завершено) typescript, redux/toolkit, Node JS (mongoDB, express, mongoose)
+<b>Прототип блога на React, Typescript, Redux Toolkit, Node JS (mongoDB, express, mongoose) </b> (не завершено) 
+<br/>
 https://github.com/Vitaly159/social-network
 
 <br/>
