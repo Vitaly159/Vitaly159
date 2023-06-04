@@ -54,7 +54,7 @@ https://github.com/Vitaly159/todos-redux-thunk
 <br/>
 <br/>
 
-8) <b>Organizer на React JS https://dazzling-phoenix-61c90e.netlify.app
+8) <b>Organizer на React JS https://dazzling-phoenix-61c90e.netlify.app,
 https://github.com/Vitaly159/React-organizer-redux</b>:
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/org.jpg" />
@@ -71,18 +71,14 @@ https://github.com/Vitaly159/React-Shopping-App</b>:
 <br/>
 <br/>
 
-<br/>
-
-10) <b>Notebook</b>:
-<br/>
-https://radiant-frangollo-481fef.netlify.app
-<br/>
-redux/toolkit+typescript https://github.com/Vitaly159/React_redux_notebook
+10) <b>Notebook https://radiant-frangollo-481fef.netlify.app,
+redux/toolkit+typescript https://github.com/Vitaly159/React_redux_notebook</b>:
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/notebook.png" />
 
 <br/>
+<br/>
 
-- <b>TodoListна React JS, Typescript, Redux Toolkit</b>:
-<br />
-redux/toolkit+typescript: https://github.com/Vitaly159/React-Redux-TypeScript-todoList
+11) <b>TodoList на React JS, Typescript, Redux Toolkit https://github.com/Vitaly159/React-Redux-TypeScript-todoList
+</b>
+
