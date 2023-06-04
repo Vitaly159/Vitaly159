@@ -55,7 +55,6 @@ https://github.com/Vitaly159/todos-redux-thunk
 <br/>
 
 8) <b>Organizer на React JS https://dazzling-phoenix-61c90e.netlify.app
-  <br/>
 https://github.com/Vitaly159/React-organizer-redux</b>:
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/org.jpg" />
