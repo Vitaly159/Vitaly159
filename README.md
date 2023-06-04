@@ -22,8 +22,7 @@
 1) <b>Виртуальный список на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle) https://github.com/Vitaly159/Virtualization</b>
 <br/>
 
-
-2) <b>Прототип интернет-магазина на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle) https://github.com/Vitaly159/Catalog-example</b>
+2) <b>Прототип интернет-магазина на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle)<br/> https://github.com/Vitaly159/Catalog-example</b>
 <br/>
 
 3) <b>Простой websocket на React + Node JS (реальное тестовое на позицию pre-middle) https://github.com/Vitaly159/websocket-example
@@ -39,6 +38,7 @@
 
 6) <b>Todos  (реальное тестовое на позицию react разработчика) 
 https://boisterous-piroshki-60122c.netlify.app
+  <br/>
 https://github.com/Vitaly159/todos-redux-thunk
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/todos.png" /></b>
@@ -55,6 +55,7 @@ https://github.com/Vitaly159/todos-redux-thunk
 <br/>
 
 8) <b>Organizer на React JS https://dazzling-phoenix-61c90e.netlify.app
+  <br/>
 https://github.com/Vitaly159/React-organizer-redux</b>:
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/org.jpg" />
