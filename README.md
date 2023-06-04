@@ -44,21 +44,22 @@ https://github.com/Vitaly159/todos-redux-thunk
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/todos.png" /></b>
 
 <br/>
-
-7) <b>Converter from Excel to JSON (реальное тестовое на позицию react разработчика)</b>:
 <br/>
-https://github.com/Vitaly159/React-ImportExcel 
+
+7) <b>Converter from Excel to JSON (реальное тестовое на позицию react разработчика) https://github.com/Vitaly159/React-ImportExcel 
+</b>:
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/importExcel.png" />
 
-- <b>Organizer на React JS</b>:
 <br/>
-https://dazzling-phoenix-61c90e.netlify.app
 <br/>
-with redux/toolkit: https://github.com/Vitaly159/React-organizer-redux
+
+8) <b>Organizer на React JS https://dazzling-phoenix-61c90e.netlify.app
+https://github.com/Vitaly159/React-organizer-redux</b>:
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/org.jpg" />
 
+<br/>
 <br/>
 
 - <b>Shopping App на React JS</b>: 
