@@ -43,6 +43,22 @@ https://github.com/Vitaly159/social-network
 
 <br/>
 
+Todos  (реальное тестовое на позицию react разработчика):
+<br/>
+https://github.com/Vitaly159/todos
+<br/>
+https://boisterous-piroshki-60122c.netlify.app
+<br/>
+with redux-thunk: https://github.com/Vitaly159/todos-redux-thunk
+<br/>
+<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/todos.png" />
+
+<b>Converter from Excel to JSON (реальное тестовое на позицию react разработчика)</b>:
+<br/>
+https://github.com/Vitaly159/React-ImportExcel 
+<br/>
+<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/importExcel.png" />
+
 <b>Organizer на React JS</b>:
 <br/>
 https://dazzling-phoenix-61c90e.netlify.app
@@ -78,16 +94,6 @@ redux/toolkit+typescript https://github.com/Vitaly159/React_redux_notebook
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/notebook.png" />
 
 <br/>
-
-Todos  (real task of the employer):
-<br/>
-https://github.com/Vitaly159/todos
-<br/>
-https://boisterous-piroshki-60122c.netlify.app
-<br/>
-with redux-thunk: https://github.com/Vitaly159/todos-redux-thunk
-<br/>
-<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/todos.png" />
 
 <br/>
 
