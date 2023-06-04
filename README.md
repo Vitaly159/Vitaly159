@@ -19,31 +19,31 @@
 
 ### Here you can see my react projects
 
-<b>Виртуальный список на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle)</b>
+- <b>Виртуальный список на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle)</b>
 <br/>
 https://github.com/Vitaly159/Virtualization
 
-<b>Прототип интернет-магазина на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle)</b>
+- <b>Прототип интернет-магазина на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle)</b>
 <br/>
 https://github.com/Vitaly159/Catalog-example
 
-<b>Простой websocket на React + Node JS (реальное тестовое на позицию pre-middle)</b>
+- <b>Простой websocket на React + Node JS (реальное тестовое на позицию pre-middle)</b>
 <br/>
 https://github.com/Vitaly159/websocket-example
 
-<b>Сапёр на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle)</b>
+- <b>Сапёр на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle)</b>
 <br/>
 https://github.com/Vitaly159/minesweeper
 <br/>
 https://master--zesty-bombolone-4a1db3.netlify.app/
 
-<b>Прототип блога на React, Typescript, Redux Toolkit, Node JS (mongoDB, express, mongoose) </b> (не завершено) 
+- <b>Прототип блога на React, Typescript, Redux Toolkit, Node JS (mongoDB, express, mongoose) </b> (не завершено) 
 <br/>
 https://github.com/Vitaly159/social-network
 
 <br/>
 
-<b>Todos  (реальное тестовое на позицию react разработчика)</b>:
+- <b>Todos  (реальное тестовое на позицию react разработчика)</b>:
 <br/>
 https://github.com/Vitaly159/todos
 <br/>
@@ -53,13 +53,13 @@ with redux-thunk: https://github.com/Vitaly159/todos-redux-thunk
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/todos.png" />
 
-<b>Converter from Excel to JSON (реальное тестовое на позицию react разработчика)</b>:
+- <b>Converter from Excel to JSON (реальное тестовое на позицию react разработчика)</b>:
 <br/>
 https://github.com/Vitaly159/React-ImportExcel 
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/importExcel.png" />
 
-<b>Organizer на React JS</b>:
+- <b>Organizer на React JS</b>:
 <br/>
 https://dazzling-phoenix-61c90e.netlify.app
 <br/>
@@ -69,7 +69,7 @@ with redux/toolkit: https://github.com/Vitaly159/React-organizer-redux
 
 <br/>
 
-<b>Shopping App на React JS</b>: 
+- <b>Shopping App на React JS</b>: 
 <br/>
 https://creative-hotteok-e50c9e.netlify.app
 <br/>
@@ -79,16 +79,16 @@ https://github.com/Vitaly159/React-Shopping-App
 
 <br/>
 
-<b>TodoListна React JS, Typescript, Redux Toolkit</b>:
-<br />
-redux/toolkit+typescript: https://github.com/Vitaly159/React-Redux-TypeScript-todoList
-
-<br/>
-
-<b>Notebook</b>:
+- <b>Notebook</b>:
 <br/>
 https://radiant-frangollo-481fef.netlify.app
 <br/>
 redux/toolkit+typescript https://github.com/Vitaly159/React_redux_notebook
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/notebook.png" />
+
+<br/>
+
+- <b>TodoListна React JS, Typescript, Redux Toolkit</b>:
+<br />
+redux/toolkit+typescript: https://github.com/Vitaly159/React-Redux-TypeScript-todoList
