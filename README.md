@@ -37,17 +37,16 @@
 
 <br/>
 
-- <b>Todos  (реальное тестовое на позицию react разработчика)</b>:
-<br/>
-https://github.com/Vitaly159/todos
+6) <b>Todos  (реальное тестовое на позицию react разработчика) https://github.com/Vitaly159/todos
 <br/>
 https://boisterous-piroshki-60122c.netlify.app
 <br/>
 with redux-thunk: https://github.com/Vitaly159/todos-redux-thunk
 <br/>
-<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/todos.png" />
+<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/todos.png" /></b>
+<br/>
 
-- <b>Converter from Excel to JSON (реальное тестовое на позицию react разработчика)</b>:
+7) <b>Converter from Excel to JSON (реальное тестовое на позицию react разработчика)</b>:
 <br/>
 https://github.com/Vitaly159/React-ImportExcel 
 <br/>
