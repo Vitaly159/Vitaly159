@@ -43,7 +43,7 @@ https://github.com/Vitaly159/social-network
 
 <br/>
 
-Todos  (реальное тестовое на позицию react разработчика):
+<b>Todos  (реальное тестовое на позицию react разработчика)</b>:
 <br/>
 https://github.com/Vitaly159/todos
 <br/>
@@ -92,13 +92,3 @@ https://radiant-frangollo-481fef.netlify.app
 redux/toolkit+typescript https://github.com/Vitaly159/React_redux_notebook
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/notebook.png" />
-
-<br/>
-
-<br/>
-
-<b>Converter from Excel to JSON (real task of the employer)</b>:
-<br/>
-https://github.com/Vitaly159/React-ImportExcel 
-<br/>
-<img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/importExcel.png" />
