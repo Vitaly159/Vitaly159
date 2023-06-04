@@ -20,9 +20,11 @@
 ### Here you can see my react projects
 
 <b>Простой websocket на Node JS</b>
+<br/>
 https://github.com/Vitaly159/websocket-example
 
 <b>Сапёр</b>
+<br/>
 https://github.com/Vitaly159/minesweeper
 <br/>
 https://master--zesty-bombolone-4a1db3.netlify.app/
