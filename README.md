@@ -43,7 +43,7 @@ https://github.com/Vitaly159/social-network
 
 <br/>
 
-<b>Organizer</b>:
+<b>Organizer на React JS</b>:
 <br/>
 https://dazzling-phoenix-61c90e.netlify.app
 <br/>
@@ -53,7 +53,7 @@ with redux/toolkit: https://github.com/Vitaly159/React-organizer-redux
 
 <br/>
 
-<b>Shopping App</b>: 
+<b>Shopping App на React JS</b>: 
 <br/>
 https://creative-hotteok-e50c9e.netlify.app
 <br/>
@@ -63,9 +63,7 @@ https://github.com/Vitaly159/React-Shopping-App
 
 <br/>
 
-<b>TodoList</b>:
-<br />
-with redux/toolkit: https://github.com/Vitaly159/React-Redux-todoList
+<b>TodoListна React JS, Typescript, Redux Toolkit</b>:
 <br />
 redux/toolkit+typescript: https://github.com/Vitaly159/React-Redux-TypeScript-todoList
 
