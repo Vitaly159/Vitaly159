@@ -35,11 +35,9 @@
 https://master--zesty-bombolone-4a1db3.netlify.app/</b>
 <br/>
 
-<b>Прототип блога на React, Typescript, Redux Toolkit, Node JS (mongoDB, express, mongoose) https://github.com/Vitaly159/social-network</b> (не завершено) 
-
 <br/>
 
-6) <b>Todos  (реальное тестовое на позицию react разработчика) 
+<b>Todos  (реальное тестовое на позицию react разработчика) 
 https://boisterous-piroshki-60122c.netlify.app,
 https://github.com/Vitaly159/todos-redux-thunk
 <br/>
@@ -80,7 +78,4 @@ redux/toolkit+typescript https://github.com/Vitaly159/React_redux_notebook</b>:
 
 <br/>
 <br/>
-
-<b>TodoList на React JS, Typescript, Redux Toolkit https://github.com/Vitaly159/React-Redux-TypeScript-todoList
-</b>
 
