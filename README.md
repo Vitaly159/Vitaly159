@@ -17,6 +17,13 @@
 
 ### Here you can see my react projects
 
+
+<b>Микро сервис по авторизации юзеров (express, typescript, GraphQL)<br/> [[https://github.com/Vitaly159/Catalog-example](https://github.com/Vitaly159/UserServiceNode)](https://github.com/Vitaly159/AuthServiceNode)</b>
+<br/>
+
+<b>Микро сервис по управлению юзерами (express, typescript, prisma)<br/> [https://github.com/Vitaly159/Catalog-example](https://github.com/Vitaly159/UserServiceNode)</b>
+<br/>
+
 <b>Прототип интернет-магазина на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle)<br/> https://github.com/Vitaly159/Catalog-example</b>
 <br/>
 
