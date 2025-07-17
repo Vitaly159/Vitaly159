@@ -24,13 +24,6 @@
 <b>Микро сервис по управлению юзерами (express, typescript, prisma)<br/> https://github.com/Vitaly159/UserServiceNode</b>
 <br/>
 
-<b>Прототип интернет-магазина на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle)<br/> https://github.com/Vitaly159/Catalog-example</b>
-<br/>
-
-<b>Простой websocket на React + Node JS (реальное тестовое на позицию pre-middle) https://github.com/Vitaly159/websocket-example
-</b>
-<br/>
-
 <b>Сапёр на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle) https://github.com/Vitaly159/minesweeper, 
 https://master--zesty-bombolone-4a1db3.netlify.app/</b>
 <br/>
