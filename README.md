@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Vitaly
-## I'm a FrontEnd Developer 
-### open to work
+### Full stack javascript/typescript developer
 
 <br/>
 <br/>
@@ -19,21 +17,18 @@
 
 ### Here you can see my react projects
 
-1) <b>Виртуальный список на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle) https://github.com/Vitaly159/Virtualization</b>
+<b>Прототип интернет-магазина на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle)<br/> https://github.com/Vitaly159/Catalog-example</b>
 <br/>
 
-2) <b>Прототип интернет-магазина на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle)<br/> https://github.com/Vitaly159/Catalog-example</b>
-<br/>
-
-3) <b>Простой websocket на React + Node JS (реальное тестовое на позицию pre-middle) https://github.com/Vitaly159/websocket-example
+<b>Простой websocket на React + Node JS (реальное тестовое на позицию pre-middle) https://github.com/Vitaly159/websocket-example
 </b>
 <br/>
 
-4) <b>Сапёр на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle) https://github.com/Vitaly159/minesweeper, 
+<b>Сапёр на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle) https://github.com/Vitaly159/minesweeper, 
 https://master--zesty-bombolone-4a1db3.netlify.app/</b>
 <br/>
 
-5) <b>Прототип блога на React, Typescript, Redux Toolkit, Node JS (mongoDB, express, mongoose) https://github.com/Vitaly159/social-network</b> (не завершено) 
+<b>Прототип блога на React, Typescript, Redux Toolkit, Node JS (mongoDB, express, mongoose) https://github.com/Vitaly159/social-network</b> (не завершено) 
 
 <br/>
 
@@ -46,7 +41,7 @@ https://github.com/Vitaly159/todos-redux-thunk
 <br/>
 <br/>
 
-7) <b>Converter from Excel to JSON (реальное тестовое на позицию react разработчика) https://github.com/Vitaly159/React-ImportExcel 
+<b>Converter from Excel to JSON (реальное тестовое на позицию react разработчика) https://github.com/Vitaly159/React-ImportExcel 
 </b>:
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/importExcel.png" />
@@ -54,7 +49,7 @@ https://github.com/Vitaly159/todos-redux-thunk
 <br/>
 <br/>
 
-8) <b>Organizer на React JS https://dazzling-phoenix-61c90e.netlify.app,
+<b>Organizer на React JS https://dazzling-phoenix-61c90e.netlify.app,
 https://github.com/Vitaly159/React-organizer-redux</b>:
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/org.jpg" />
@@ -62,7 +57,7 @@ https://github.com/Vitaly159/React-organizer-redux</b>:
 <br/>
 <br/>
 
-9) <b>Shopping App на React JS 
+<b>Shopping App на React JS 
 https://creative-hotteok-e50c9e.netlify.app, 
 https://github.com/Vitaly159/React-Shopping-App</b>: 
 <br/>
@@ -71,7 +66,7 @@ https://github.com/Vitaly159/React-Shopping-App</b>:
 <br/>
 <br/>
 
-10) <b>Notebook https://radiant-frangollo-481fef.netlify.app,
+<b>Notebook https://radiant-frangollo-481fef.netlify.app,
 redux/toolkit+typescript https://github.com/Vitaly159/React_redux_notebook</b>:
 <br/>
 <img align="center" alt="js" width="400px" src="https://github.com/Vitaly159/Vitaly159/blob/main/images/notebook.png" />
@@ -79,6 +74,6 @@ redux/toolkit+typescript https://github.com/Vitaly159/React_redux_notebook</b>:
 <br/>
 <br/>
 
-11) <b>TodoList на React JS, Typescript, Redux Toolkit https://github.com/Vitaly159/React-Redux-TypeScript-todoList
+<b>TodoList на React JS, Typescript, Redux Toolkit https://github.com/Vitaly159/React-Redux-TypeScript-todoList
 </b>
 
