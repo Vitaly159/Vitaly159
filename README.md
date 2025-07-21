@@ -18,10 +18,10 @@
 ### Here you can see my react projects
 
 
-<b>Микро сервис по авторизации юзеров (express, typescript, GraphQL)<br/> https://github.com/Vitaly159/AuthServiceNode</b>
+<b>Микро сервис по авторизации юзеров (express, typescript, GraphQL, postgres)<br/> https://github.com/Vitaly159/AuthServiceNode</b>
 <br/>
 
-<b>Микро сервис по управлению юзерами (express, typescript, prisma)<br/> https://github.com/Vitaly159/UserServiceNode</b>
+<b>Микро сервис по управлению юзерами (express, typescript, prisma, postgres)<br/> https://github.com/Vitaly159/UserServiceNode</b>
 <br/>
 
 <b>Сапёр на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle) https://github.com/Vitaly159/minesweeper, 
