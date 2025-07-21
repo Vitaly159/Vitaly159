@@ -30,7 +30,7 @@ https://master--zesty-bombolone-4a1db3.netlify.app/</b>
 
 <br/>
 
-<b>Todos  (реальное тестовое на позицию react разработчика) 
+<b>Todos  (тестовое на позицию react разработчика) 
 https://boisterous-piroshki-60122c.netlify.app,
 https://github.com/Vitaly159/todos-redux-thunk
 <br/>
