@@ -24,7 +24,10 @@
 <b>Микро сервис по управлению юзерами (express, typescript, prisma, postgres)<br/> https://github.com/Vitaly159/UserServiceNode</b>
 <br/>
 
-<b>Сапёр на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle) https://github.com/Vitaly159/minesweeper, 
+<b>Сапёр на React, Typescript, Redux Toolkit (реальное тестовое на позицию middle) 
+<br/> 
+https://github.com/Vitaly159/minesweeper
+<br/>
 https://master--zesty-bombolone-4a1db3.netlify.app/</b>
 <br/>
 
