@@ -1,4 +1,4 @@
-### Full stack javascript/typescript developer
+### Fullstack javascript/typescript developer
 
 <br/>
 <br/>
